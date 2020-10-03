@@ -1,5 +1,3 @@
-#姓名 : 鍾明智
-#學號 : 107213067
 def findlcm(i,j) : #statement finding LCM
     prime = dict() #set prime to dict
     for x in range(i, j+1) : #statement looping for x in that range
